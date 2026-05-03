@@ -1,36 +1,47 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Ghassan
 
-###
+A Computer Engineering student at Telkom University passionate about solving complex problems through programming and innovative technology solutions.
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+---
 
-###
+## 🚀 About Me
 
-<h2 align="left">About me</h2>
+✨ Learning the fundamentals of computer science and engineering  
+📚 Currently expanding my knowledge in algorithms, data structures, and software development  
+🎯 Goals: Build a strong foundation in programming and contribute to meaningful tech projects  
+🎲 Fun fact: I enjoy exploring how things work at the system level
 
-###
+---
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## 💻 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt=
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
+</div>
+
+---
+
+## 🏆 Key Skills
+
+- **Programming Languages:** C, Python
+- **Core Concepts:** Data Structures, Algorithms, Object-Oriented Programming
+- **Problem Solving:** Competitive Programming, Debugging
+- **Tools:** Git, Command Line, Code Documentation
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghassan193&show_icons=true&theme=dark)
+
+---
+
+## 📫 Get In Touch
+
+- **GitHub:** [@ghassan193](https://github.com/ghassan193)
+
+---
+
+*Last updated: 2026-05-03*
